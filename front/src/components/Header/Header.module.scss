@@ -1,0 +1,14 @@
+.header {
+  background-color: #f0f0f0;
+  padding: 20px;
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+
+    li {
+      font-size: 18px;
+    }
+  }
+}
